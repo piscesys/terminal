@@ -1,6 +1,6 @@
-# CutefishOS Terminal
+# Piscesys Terminal
 
-A terminal emulator for Cutefish.
+A terminal emulator for Piscesys.
 
 ### Third Party Code
 
