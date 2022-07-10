@@ -1,5 +1,5 @@
-cutefish-terminal (0.7) UNRELEASED; urgency=low
+pisces-terminal (0.9) misaka; urgency=medium
 
-  * Initial release (CutefishOS)  <support@cutefishos.com>
+  * Initial Release for Pisces.
 
- -- CutefishOS Packaging Team <support@cutefishos.com>  Mon, 27 Dec 2021 11:12:27 +0800
+ -- Piscesys Packaging Team <support@piscesys.com> Sun, 10 Jul 2022 15:15:15 +0800

@@ -90,4 +90,14 @@ CMakeLists.txt.user*
 
 # End of https://www.toptal.com/developers/gitignore/api/cmake,linux,qt
 
+build/*
 .vscode/
+
+debian/*.debhelper
+debian/files
+debian/pisces-terminal
+debian/*.changes
+debian/*.buildinfo
+debian/*.substvars
+debian/*.log
+obj-x86_64-linux-gnu/
